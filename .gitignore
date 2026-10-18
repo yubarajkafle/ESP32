@@ -1,0 +1,20 @@
+### Windows
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Ignore History and 3D folders
+History/
+3D/
+__Previews/
+Project Logs for ESP32Proj/
+Project Outputs for ESP32Proj/
+tmp/
