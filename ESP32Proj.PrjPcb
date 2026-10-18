@@ -226,6 +226,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for ESP32Proj\Pick Place\Pick Place for ESP32 with USBC PCBV1(Prototype).csv
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Drawn By
+Value=Yuba R Kafle
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
